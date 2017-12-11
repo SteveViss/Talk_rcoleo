@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="28cm" height="5cm" viewBox="195 -106 550 89" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="196.7" y="-104.2" width="103" height="86"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0071a2" x="196.7" y="-104.2" width="103" height="86"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0071a2" x1="207" y1="-104.2" x2="207" y2="-18.2"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0071a2" x1="196.7" y1="-95.6" x2="299.7" y2="-95.6"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:Anonymous Pro for Powerline;font-style:normal;font-weight:normal" x="253.35" y="-54.5">
+      <tspan x="253.35" y="-54.5">Cellules</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="345.7" y="-104.2" width="103" height="86"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0071a2" x="345.7" y="-104.2" width="103" height="86"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0071a2" x1="356" y1="-104.2" x2="356" y2="-18.2"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0071a2" x1="345.7" y1="-95.6" x2="448.7" y2="-95.6"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:Anonymous Pro for Powerline;font-style:normal;font-weight:normal" x="402.35" y="-54.5">
+      <tspan x="402.35" y="-54.5">Sites</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="490.7" y="-104.2" width="103" height="86"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0071a2" x="490.7" y="-104.2" width="103" height="86"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0071a2" x1="501" y1="-104.2" x2="501" y2="-18.2"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0071a2" x1="490.7" y1="-95.6" x2="593.7" y2="-95.6"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:Anonymous Pro for Powerline;font-style:normal;font-weight:normal" x="547.35" y="-54.5">
+      <tspan x="547.35" y="-54.5">Campagnes</tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="562.8" y="-61.2">
+    <tspan x="562.8" y="-61.2"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="636.4" y="-104.2" width="107.6" height="86"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0071a2" x="636.4" y="-104.2" width="107.6" height="86"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0071a2" x1="647.16" y1="-104.2" x2="647.16" y2="-18.2"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0071a2" x1="636.4" y1="-95.6" x2="744" y2="-95.6"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:Anonymous Pro for Powerline;font-style:normal;font-weight:normal" x="695.58" y="-54.5">
+      <tspan x="695.58" y="-54.5">Observations</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0071a2" x1="299.7" y1="-61.2" x2="335.964" y2="-61.2"/>
+    <polygon style="fill: #0071a2" points="343.464,-61.2 333.464,-56.2 335.964,-61.2 333.464,-66.2 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0071a2" points="343.464,-61.2 333.464,-56.2 335.964,-61.2 333.464,-66.2 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0071a2" x1="448.7" y1="-61.2" x2="480.964" y2="-61.2"/>
+    <polygon style="fill: #0071a2" points="488.464,-61.2 478.464,-56.2 480.964,-61.2 478.464,-66.2 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0071a2" points="488.464,-61.2 478.464,-56.2 480.964,-61.2 478.464,-66.2 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0071a2" x1="593.7" y1="-61.2" x2="626.664" y2="-61.2"/>
+    <polygon style="fill: #0071a2" points="634.164,-61.2 624.164,-56.2 626.664,-61.2 624.164,-66.2 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0071a2" points="634.164,-61.2 624.164,-56.2 626.664,-61.2 624.164,-66.2 "/>
+  </g>
+</svg>
